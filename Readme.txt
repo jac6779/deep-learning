@@ -1,0 +1,5 @@
+The goal of this project is to help businesses optimize their social media advertising by predicting whether a user will purchase a product based on their age and estimated salary. By building a predictive model, marketers can target the right audience more effectively, allocate ad spend more efficiently, and ultimately improve conversion rates.
+
+A logistic regression model was used to classify users as potential buyers or non-buyers. After standardizing the input features, the model was trained and tested, showing solid performance in identifying purchasing behavior. Evaluation metrics, including accuracy and a confusion matrix, confirmed that the model could make reasonable predictions based on the available data.
+
+Visualization of the decision boundary revealed that the model performed well on clear-cut cases, such as users with very high or low incomes, but had more difficulty with mid-range values. While the model provides a strong starting point, there is potential to enhance it further by incorporating additional features, experimenting with more complex algorithms, and refining evaluation techniques.
